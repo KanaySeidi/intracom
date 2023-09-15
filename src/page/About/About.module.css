@@ -1,0 +1,45 @@
+.section{
+    width: 100%;
+    height: 100%;
+}
+
+
+.container{
+    width: 1100px;
+    margin: 50px auto;
+}
+
+.mainText{
+    font-size: 42px;
+    color:  #00594F;
+    text-align: center;
+}
+
+.text{
+    font-size: 22px;
+    margin-top: 30px;
+    line-height: 40px;
+}
+
+.text ul li{
+    margin: 10px 0 15px 45px;
+}
+
+.consultBtn{
+    width: 400px;
+    height: 60px;
+    border-radius: 8px;
+    border: none;
+    margin: 100px auto 50px;
+    display: block;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    background-color:  #00594F;
+    cursor: pointer;
+  }
+
+  .consultBtn:hover{
+    color: #fff;
+    background-color: grey;
+  }
