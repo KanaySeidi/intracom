@@ -28,7 +28,7 @@ const Header = () => {
             to="main"
             spy={true}
             smooth={true}
-            offset={-80}
+            offset={0}
             duration={500}
             className={head.item}
           >

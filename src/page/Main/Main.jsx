@@ -6,7 +6,6 @@ import Parnter from "../Partner/Parnter";
 import Service from "../Service/Service";
 import Modal from "../../components/Modal/Modal";
 import video from "../../assets/video/mainVideo.mp4";
-import Order from "../../components/Order/Order";
 
 const Main = () => {
   const [openModal, setOpenModal] = useState(true);
