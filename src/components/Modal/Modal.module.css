@@ -43,7 +43,7 @@
     transform: translateX(0);
     transition: all 3s;
     animation: text3 3s 4s linear;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
     line-height: 42px;
     opacity: 0;
     animation-fill-mode: forwards;
