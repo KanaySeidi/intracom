@@ -9,7 +9,7 @@ import video from "../../assets/video/mainVideo.mp4";
 import Order from "../../components/Order/Order";
 
 const Main = () => {
-  const [openModal, setOpenModal] = useState(false);
+  const [openModal, setOpenModal] = useState(true);
   return (
     <>
       <div className={main.section} id="main">

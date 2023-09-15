@@ -5,7 +5,7 @@
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 1);
-    z-index: 30;
+    z-index: 999;
     overflow: hidden;
 }
 
@@ -20,7 +20,7 @@
     transform: translateX(0);
     transition: all 3s;
     animation: text 3s linear;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
     line-height: 42px;
     opacity: 0;
     animation-fill-mode: forwards;
@@ -31,7 +31,7 @@
     transform: translateX(0);
     transition: all 3s;
     animation: text2 3s 2s linear;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
     line-height: 42px;
     opacity: 0;
     animation-fill-mode: forwards;
