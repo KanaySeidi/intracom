@@ -6,7 +6,7 @@
 
 .bg{
     width: 100%;
-    height: 100%;
+    height: 1060px;
     object-fit: cover;
     position: absolute;
     z-index: -999;
